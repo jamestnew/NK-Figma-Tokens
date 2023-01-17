@@ -1373,6 +1373,3341 @@
     "CORS service": {
       "value": "https://corsproxy.io/?",
       "type": "other"
+    },
+    "Luke-Light": {
+      "blue010": {
+        "value": "#ecf1ff",
+        "type": "color"
+      },
+      "blue020": {
+        "value": "#d5e0fc",
+        "type": "color"
+      },
+      "blue030": {
+        "value": "#aebfff",
+        "type": "color"
+      },
+      "blue040": {
+        "value": "#8ba6f6",
+        "type": "color"
+      },
+      "blue050": {
+        "value": "#577ffb",
+        "type": "color"
+      },
+      "blue060": {
+        "value": "#3358cc",
+        "type": "color"
+      },
+      "blue070": {
+        "value": "#254cac",
+        "type": "color"
+      },
+      "blue080": {
+        "value": "#12387a",
+        "type": "color"
+      },
+      "blue090": {
+        "value": "#03264d",
+        "type": "color"
+      },
+      "blue100": {
+        "value": "#060f2c",
+        "type": "color"
+      },
+      "green010": {
+        "value": "#e5f4ea",
+        "type": "color"
+      },
+      "green020": {
+        "value": "#c8e4d0",
+        "type": "color"
+      },
+      "green030": {
+        "value": "#95caa3",
+        "type": "color"
+      },
+      "green040": {
+        "value": "#6db681",
+        "type": "color"
+      },
+      "green050": {
+        "value": "#41a05b",
+        "type": "color"
+      },
+      "green060": {
+        "value": "#007b22",
+        "type": "color"
+      },
+      "green070": {
+        "value": "#00601a",
+        "type": "color"
+      },
+      "green080": {
+        "value": "#004514",
+        "type": "color"
+      },
+      "green090": {
+        "value": "#002d0d",
+        "type": "color"
+      },
+      "green100": {
+        "value": "#001506",
+        "type": "color"
+      },
+      "red010": {
+        "value": "#feecec",
+        "type": "color"
+      },
+      "red020": {
+        "value": "#fed8d8",
+        "type": "color"
+      },
+      "red030": {
+        "value": "#feb3b3",
+        "type": "color"
+      },
+      "red040": {
+        "value": "#fe8888",
+        "type": "color"
+      },
+      "red050": {
+        "value": "#fb5959",
+        "type": "color"
+      },
+      "red060": {
+        "value": "#d60000",
+        "type": "color"
+      },
+      "red070": {
+        "value": "#a90000",
+        "type": "color"
+      },
+      "red080": {
+        "value": "#7d0000",
+        "type": "color"
+      },
+      "red090": {
+        "value": "#550000",
+        "type": "color"
+      },
+      "red100": {
+        "value": "#2d0000",
+        "type": "color"
+      },
+      "amber010": {
+        "value": "#ffede1",
+        "type": "color"
+      },
+      "amber020": {
+        "value": "#fddcc6",
+        "type": "color"
+      },
+      "amber030": {
+        "value": "#feb788",
+        "type": "color"
+      },
+      "amber040": {
+        "value": "#f79247",
+        "type": "color"
+      },
+      "amber050": {
+        "value": "#cd6900",
+        "type": "color"
+      },
+      "amber060": {
+        "value": "#a75500",
+        "type": "color"
+      },
+      "amber070": {
+        "value": "#804200",
+        "type": "color"
+      },
+      "amber080": {
+        "value": "#5d2f00",
+        "type": "color"
+      },
+      "amber090": {
+        "value": "#3c1f00",
+        "type": "color"
+      },
+      "amber100": {
+        "value": "#1d0d02",
+        "type": "color"
+      },
+      "teal010": {
+        "value": "#e6f4f6",
+        "type": "color"
+      },
+      "teal020": {
+        "value": "#c7e7ea",
+        "type": "color"
+      },
+      "teal030": {
+        "value": "#97d0d6",
+        "type": "color"
+      },
+      "teal040": {
+        "value": "#5eb8c0",
+        "type": "color"
+      },
+      "teal050": {
+        "value": "#289fab",
+        "type": "color"
+      },
+      "teal060": {
+        "value": "#017582",
+        "type": "color"
+      },
+      "teal070": {
+        "value": "#005b65",
+        "type": "color"
+      },
+      "teal080": {
+        "value": "#004249",
+        "type": "color"
+      },
+      "teal090": {
+        "value": "#002b30",
+        "type": "color"
+      },
+      "teal100": {
+        "value": "#001314",
+        "type": "color"
+      },
+      "purple010": {
+        "value": "#eff0ff",
+        "type": "color"
+      },
+      "purple020": {
+        "value": "#dfe0fe",
+        "type": "color"
+      },
+      "purple030": {
+        "value": "#c0c2fc",
+        "type": "color"
+      },
+      "purple040": {
+        "value": "#a3a3fb",
+        "type": "color"
+      },
+      "purple050": {
+        "value": "#8883f6",
+        "type": "color"
+      },
+      "purple060": {
+        "value": "#6454e3",
+        "type": "color"
+      },
+      "purple070": {
+        "value": "#4c33cc",
+        "type": "color"
+      },
+      "purple080": {
+        "value": "#37239c",
+        "type": "color"
+      },
+      "purple090": {
+        "value": "#231668",
+        "type": "color"
+      },
+      "purple100": {
+        "value": "#0f0936",
+        "type": "color"
+      },
+      "neutral010": {
+        "value": "#f1f1f1",
+        "type": "color"
+      },
+      "neutral020": {
+        "value": "#e2e2e2",
+        "type": "color"
+      },
+      "neutral030": {
+        "value": "#c6c6c6",
+        "type": "color"
+      },
+      "neutral040": {
+        "value": "#ababab",
+        "type": "color"
+      },
+      "neutral050": {
+        "value": "#919191",
+        "type": "color"
+      },
+      "neutral060": {
+        "value": "#6a6a6a",
+        "type": "color"
+      },
+      "neutral070": {
+        "value": "#525252",
+        "type": "color"
+      },
+      "neutral080": {
+        "value": "#3b3b3b",
+        "type": "color"
+      },
+      "neutral090": {
+        "value": "#262626",
+        "type": "color"
+      },
+      "neutral100": {
+        "value": "#111111",
+        "type": "color"
+      },
+      "focus010": {
+        "value": "#3768fb",
+        "type": "color"
+      },
+      "blackTint010": {
+        "value": "#0000001a",
+        "type": "color"
+      },
+      "blackTint020": {
+        "value": "#00000033",
+        "type": "color"
+      },
+      "blackTint030": {
+        "value": "#0000004d",
+        "type": "color"
+      },
+      "blackTint040": {
+        "value": "#00000066",
+        "type": "color"
+      },
+      "blackTint050": {
+        "value": "#00000080",
+        "type": "color"
+      },
+      "blackTint060": {
+        "value": "#00000099",
+        "type": "color"
+      },
+      "blackTint070": {
+        "value": "#000000b3",
+        "type": "color"
+      },
+      "blackTint080": {
+        "value": "#000000cc",
+        "type": "color"
+      },
+      "blackTint090": {
+        "value": "#000000e6",
+        "type": "color"
+      },
+      "black": {
+        "value": "#111111",
+        "type": "color"
+      },
+      "whiteTint010": {
+        "value": "#ffffff1a",
+        "type": "color"
+      },
+      "whiteTint020": {
+        "value": "#ffffff33",
+        "type": "color"
+      },
+      "whiteTint030": {
+        "value": "#ffffff4d",
+        "type": "color"
+      },
+      "whiteTint040": {
+        "value": "#ffffff66",
+        "type": "color"
+      },
+      "whiteTint050": {
+        "value": "#ffffff80",
+        "type": "color"
+      },
+      "whiteTint060": {
+        "value": "#ffffff99",
+        "type": "color"
+      },
+      "whiteTint070": {
+        "value": "#ffffffb3",
+        "type": "color"
+      },
+      "whiteTint080": {
+        "value": "#ffffffcc",
+        "type": "color"
+      },
+      "whiteTint090": {
+        "value": "#ffffffe6",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Reddit": {
+        "value": "#ff4500",
+        "type": "color"
+      },
+      "Whatsapp": {
+        "value": "#25d366",
+        "type": "color"
+      },
+      "Youtube": {
+        "value": "#ff0000",
+        "type": "color"
+      },
+      "Instagram": {
+        "value": "#c32aa3",
+        "type": "color"
+      },
+      "Facebook": {
+        "value": "#1877f2",
+        "type": "color"
+      },
+      "Twitter": {
+        "value": "#1da1f2",
+        "type": "color"
+      },
+      "Github": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "Apple": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "GoogleBlue": {
+        "value": "#4285f4",
+        "type": "color"
+      },
+      "GoogleRed": {
+        "value": "#db4437",
+        "type": "color"
+      },
+      "GoogleYellow": {
+        "value": "#f4b400",
+        "type": "color"
+      },
+      "GoogleGreen": {
+        "value": "#0f9d58",
+        "type": "color"
+      },
+      "transparent": {
+        "value": "#00000000",
+        "type": "color"
+      },
+      "ink": {
+        "inkBrand020": {
+          "value": "#12387a",
+          "type": "color",
+          "description": "Brand colour complimentary to inkBrand010"
+        },
+        "inkBrand010": {
+          "value": "#3358cc",
+          "type": "color",
+          "description": "Prominent brand colour applied to text and icons (e.g. icons in outlined buttons)"
+        },
+        "inkInformative": {
+          "value": "#017582",
+          "type": "color",
+          "description": "Text and icons for informative messages"
+        },
+        "inkNotice": {
+          "value": "#525252",
+          "type": "color",
+          "description": "Text and icons for notice messages"
+        },
+        "inkNegative": {
+          "value": "#d60000",
+          "type": "color",
+          "description": "Text and icons for error messages. Feedback notifications (invalid) (e.g. assistive text in a text field)"
+        },
+        "inkPositive": {
+          "value": "#007b22",
+          "type": "color",
+          "description": "Text and icons for success messages. Feedback notifications (valid) (e.g. assistive text in a text field)"
+        },
+        "inkDark010": {
+          "value": "#111111",
+          "type": "color",
+          "description": "Used when the same dark colour value is required across all colour themes"
+        },
+        "inkLight010": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Used when the same light colour value is required across all colour themes"
+        },
+        "inkInverse": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Text and icons where the recommended contrast against the background cannot be achieved"
+        },
+        "inkNonEssential": {
+          "value": "#ababab",
+          "type": "color",
+          "description": "Text and icons in an inactive (disabled) state"
+        },
+        "inkSubtle": {
+          "value": "#6a6a6a",
+          "type": "color",
+          "description": "Subheadlines, labels and secondary text"
+        },
+        "inkBase": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Body and paragraph text"
+        },
+        "inkContrast": {
+          "value": "#111111",
+          "type": "color",
+          "description": "Headlines or copy where emphasis is needed"
+        }
+      },
+      "interface": {
+        "interfaceSkeleton020": {
+          "value": "#e2e2e2",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) to indicate the skeleton (loading) state of a component"
+        },
+        "interfaceSkeleton010": {
+          "value": "#f1f1f1",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) to indicate the skeleton (loading) state of a component"
+        },
+        "interfaceNeutral020": {
+          "value": "#f1f1f1",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for neutral messages"
+        },
+        "interfaceNeutral010": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for neutral messages, & feedback notifications (e.g. banner, flag, inline message)"
+        },
+        "interfaceInformative020": {
+          "value": "#e6f4f6",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for informative messages"
+        },
+        "interfaceInformative010": {
+          "value": "#017582",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for informative messages"
+        },
+        "interfaceNotice020": {
+          "value": "#f1f1f1",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for notice or warning messages"
+        },
+        "interfaceNotice010": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for notice or warning messages"
+        },
+        "interfaceNegative020": {
+          "value": "#feecec",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for error messages"
+        },
+        "interfaceNegative010": {
+          "value": "#d60000",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for error messages"
+        },
+        "interfacePositive020": {
+          "value": "#e5f4ea",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for success messages"
+        },
+        "interfacePositive010": {
+          "value": "#007b22",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for success messages"
+        },
+        "interfaceBrand020": {
+          "value": "#03264d",
+          "type": "color",
+          "description": "Brand colour complimentary to interfaceBrand010"
+        },
+        "interfaceBrand010": {
+          "value": "#3358cc",
+          "type": "color",
+          "description": "Prominent brand colour applied to backgrounds e.g. a footer, or header"
+        },
+        "interface060": {
+          "value": "#111111",
+          "type": "color",
+          "description": "Component backgrounds of contrasting colours"
+        },
+        "interface050": {
+          "value": "#ababab",
+          "type": "color",
+          "description": "Extended scale of component backgrounds"
+        },
+        "interface040": {
+          "value": "#c6c6c6",
+          "type": "color",
+          "description": "Extended scale of component backgrounds"
+        },
+        "interface030": {
+          "value": "#e2e2e2",
+          "type": "color",
+          "description": "Extended scale of component backgrounds"
+        },
+        "interface020": {
+          "value": "#f1f1f1",
+          "type": "color",
+          "description": "Extended scale of component backgrounds"
+        },
+        "interface010": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Component backgrounds (e.g. card)"
+        },
+        "interfaceBackground": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Page background"
+        }
+      },
+      "interactive": {
+        "interactiveInput050": {
+          "value": "#254cac",
+          "type": "color",
+          "description": "Active state background and border for selection controls, and input components"
+        },
+        "interactiveInput040": {
+          "value": "#3358cc",
+          "type": "color",
+          "description": "Background & border colours applied to the Selected state of the Switch, the checkbox, & radio components"
+        },
+        "interactiveInput030": {
+          "value": "#ecf1ff",
+          "type": "color",
+          "description": "Background colour applied to the ‘feedback’ of the checkbox, & radio components"
+        },
+        "interactiveInput020": {
+          "value": "#919191",
+          "type": "color",
+          "description": "Background & border colours applied to the unselected state of the switch, the checkbox, & radio components"
+        },
+        "interactiveInput010": {
+          "value": "#f1f1f1",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the text field, & the select component button, & the list item"
+        },
+        "interactiveFocus010": {
+          "value": "#3768fb",
+          "type": "color",
+          "description": "Focus tabbing"
+        },
+        "interactiveVisited010": {
+          "value": "#6454e3",
+          "type": "color",
+          "description": "Visited state"
+        },
+        "interactiveDisabled010": {
+          "value": "#e2e2e2",
+          "type": "color",
+          "description": "Disabled state"
+        },
+        "interactiveLink030": {
+          "value": "#12387a",
+          "type": "color",
+          "description": "Colour applied to the active state of an inline and standalone link"
+        },
+        "interactiveLink020": {
+          "value": "#254cac",
+          "type": "color",
+          "description": "Colour applied to the hover state of an inline and standalone link"
+        },
+        "interactiveLink010": {
+          "value": "#3358cc",
+          "type": "color",
+          "description": "Colour applied to the base state of an inline and standalone link"
+        },
+        "interactiveInverse050": {
+          "value": "#ffffffcc",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveInverse040": {
+          "value": "#ffffffb3",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the Solid button, & the border colour of the outlined button"
+        },
+        "interactiveInverse030": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Background colour applied to the base state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveInverse020": {
+          "value": "#ffffff33",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all buttons, & the active state of the outlined & minimal button"
+        },
+        "interactiveInverse010": {
+          "value": "#ffffff1a",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the outlined & minimal button"
+        },
+        "interactiveNegative050": {
+          "value": "#7d0000",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveNegative040": {
+          "value": "#a90000",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveNegative030": {
+          "value": "#d60000",
+          "type": "color",
+          "description": "Background colour applied to the base state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveNegative020": {
+          "value": "#fed8d8",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all buttons, & the active state of the outlined & minimal button"
+        },
+        "interactiveNegative010": {
+          "value": "#feecec",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the outlined & minimal button"
+        },
+        "interactivePositive050": {
+          "value": "#004514",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePositive040": {
+          "value": "#00601a",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePositive030": {
+          "value": "#007b22",
+          "type": "color",
+          "description": "Background colour applied to the base state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePositive020": {
+          "value": "#c8e4d0",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all button, & the active state of the outlined & minimal button"
+        },
+        "interactivePositive010": {
+          "value": "#e5f4ea",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the outlined & minimal button"
+        },
+        "interactiveSecondary050": {
+          "value": "#111111",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveSecondary040": {
+          "value": "#262626",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveSecondary030": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Background colour applied to the base state of the solid button, & the border colour of the outlined button "
+        },
+        "interactiveSecondary020": {
+          "value": "#e2e2e2",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all buttons, & the active state of the outlined & minimal button"
+        },
+        "interactiveSecondary010": {
+          "value": "#f1f1f1",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the outlined & minimal button"
+        },
+        "interactivePrimary050": {
+          "value": "#12387a",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePrimary040": {
+          "value": "#254cac",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePrimary030": {
+          "value": "#3358cc",
+          "type": "color",
+          "description": "Background colour applied to the base state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePrimary020": {
+          "value": "#d5e0fc",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all buttons, & the active state of the outlined & minimal button"
+        },
+        "interactivePrimary010": {
+          "value": "#ecf1ff",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the outlined & minimal button"
+        }
+      },
+      "overlay": {
+        "overlayTintBase010": {
+          "value": "#00000033",
+          "type": "color",
+          "description": "Overlay to darken the base interface when a modal or drawer is used"
+        },
+        "overlayTintBase020": {
+          "value": "#00000066",
+          "type": "color",
+          "description": "Overlay to darken the base interface when a modal or drawer is used"
+        },
+        "overlayTintBase030": {
+          "value": "#00000099",
+          "type": "color",
+          "description": "Overlay to darken the base interface when a modal or drawer is used"
+        },
+        "overlayTintBase040": {
+          "value": "#000000cc",
+          "type": "color",
+          "description": "Overlay to darken the base interface when a modal or drawer is used"
+        },
+        "overlayTintInverse010": {
+          "value": "#ffffff33",
+          "type": "color",
+          "description": "Overlay to lighten the base interface when a modal or drawer is used"
+        },
+        "overlayTintInverse020": {
+          "value": "#ffffff66",
+          "type": "color",
+          "description": "Overlay to lighten the base interface when a modal or drawer is used"
+        },
+        "overlayTintInverse030": {
+          "value": "#ffffff99",
+          "type": "color",
+          "description": "Overlay to lighten the base interface when a modal or drawer is used"
+        },
+        "overlayTintInverse040": {
+          "value": "#ffffffcc",
+          "type": "color",
+          "description": "Overlay to lighten the base interface when a modal or drawer is used"
+        },
+        "overlayGradientBaseVertical": {
+          "value": "linear-gradient(0deg, #ffffff00 0%, #ffffff 100%)",
+          "type": "color",
+          "description": "Base gradient tokens fade elements into the interface background"
+        },
+        "overlayGradientBaseHorizontal": {
+          "value": "linear-gradient(90deg, #ffffff00 0%, #ffffff 100%)",
+          "type": "color",
+          "description": "Base gradient tokens fade elements into the interface background"
+        },
+        "overlayGradientInverseVertical": {
+          "value": "linear-gradient(0deg, #11111100 0%, #111111 100%)",
+          "type": "color",
+          "description": "Inverse gradient tokens fade elements into a dark background in a light theme"
+        },
+        "overlayGradientInverseHorizontal": {
+          "value": "linear-gradient(90deg, #11111100 0%, #111111 100%)",
+          "type": "color",
+          "description": "Inverse gradient tokens fade elements into a dark background in a light theme"
+        }
+      },
+      "shadow010": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0.5,
+          "blur": 2,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Default states of cards and active states of buttons"
+      },
+      "shadow020": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 4,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Notification badges"
+      },
+      "shadow030": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 8,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Navigation menu bars"
+      },
+      "shadow040": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 8,
+          "blur": 16,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Hover states of cards and button hover states"
+      },
+      "shadow050": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 16,
+          "blur": 24,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Pickers and popovers"
+      },
+      "shadow060": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 20,
+          "blur": 32,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Modals and dialogs"
+      },
+      "editorial": {
+        "editorialDisplay010": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.11}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for large pieces of text content"
+        },
+        "editorialDisplay020": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.12}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for large pieces of text content"
+        },
+        "editorialDisplay030": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.13}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for large pieces of text content"
+        },
+        "editorialHeadline010": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline020": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline030": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline040": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline050": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline060": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.8}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline070": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.9}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline080": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.10}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialSubheadline010": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialSubheadline020": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialSubheadline030": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialSubheadline040": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialSubheadline050": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialParagraph010": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "editorialParagraph020": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for body text content such as for article text"
+        },
+        "editorialParagraph030": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for body text content such as for article text"
+        },
+        "editorialQuote010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-3}",
+            "lineHeight": "{lineHeights.3}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for quotes in body text content"
+        },
+        "editorialQuote020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-3}",
+            "lineHeight": "{lineHeights.3}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for quotes in body text content"
+        },
+        "editorialCaption010": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-4}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "editorialLabel010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for non-interactive identifiers that are often defined by an editor, for example the author label in a card"
+        },
+        "editorialLabel020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "editorialLabel030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for non-interactive identifiers that are often defined by an editor, for example the author label in a card"
+        }
+      },
+      "utility": {
+        "utilityHeading010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilityHeading020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilityHeading030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilityHeading040": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilityHeading050": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilitySubheading010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "utilitySubheading020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub heading utility text such as for modals and drawers"
+        },
+        "utilitySubheading030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub heading utility text such as for modals and drawers"
+        },
+        "utilitySubheading040": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub heading utility text such as for modals and drawers"
+        },
+        "utilitySubheading050": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub heading utility text such as for modals and drawers"
+        },
+        "utilityBody010": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for text inputs and banners"
+        },
+        "utilityBody020": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "utilityBody030": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for text inputs and banners"
+        },
+        "utilityLabel010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for text labels such as for menus and lists"
+        },
+        "utilityLabel020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "utilityLabel030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for text labels such as for menus and lists"
+        },
+        "utilityButton010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for button text and standalone links"
+        },
+        "utilityButton020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "utilityButton030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for button text and standalone links"
+        },
+        "utilityMeta010": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-4}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for bylines and date time"
+        },
+        "utilityMeta020": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-4}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "Luke-Dark": {
+      "blue010": {
+        "value": "#ecf1ff",
+        "type": "color"
+      },
+      "blue020": {
+        "value": "#d5e0fc",
+        "type": "color"
+      },
+      "blue030": {
+        "value": "#aebfff",
+        "type": "color"
+      },
+      "blue040": {
+        "value": "#8ba6f6",
+        "type": "color"
+      },
+      "blue050": {
+        "value": "#577ffb",
+        "type": "color"
+      },
+      "blue060": {
+        "value": "#3358cc",
+        "type": "color"
+      },
+      "blue070": {
+        "value": "#254cac",
+        "type": "color"
+      },
+      "blue080": {
+        "value": "#12387a",
+        "type": "color"
+      },
+      "blue090": {
+        "value": "#03264d",
+        "type": "color"
+      },
+      "blue100": {
+        "value": "#060f2c",
+        "type": "color"
+      },
+      "green010": {
+        "value": "#e5f4ea",
+        "type": "color"
+      },
+      "green020": {
+        "value": "#c8e4d0",
+        "type": "color"
+      },
+      "green030": {
+        "value": "#95caa3",
+        "type": "color"
+      },
+      "green040": {
+        "value": "#6db681",
+        "type": "color"
+      },
+      "green050": {
+        "value": "#41a05b",
+        "type": "color"
+      },
+      "green060": {
+        "value": "#007b22",
+        "type": "color"
+      },
+      "green070": {
+        "value": "#00601a",
+        "type": "color"
+      },
+      "green080": {
+        "value": "#004514",
+        "type": "color"
+      },
+      "green090": {
+        "value": "#002d0d",
+        "type": "color"
+      },
+      "green100": {
+        "value": "#001506",
+        "type": "color"
+      },
+      "red010": {
+        "value": "#feecec",
+        "type": "color"
+      },
+      "red020": {
+        "value": "#fed8d8",
+        "type": "color"
+      },
+      "red030": {
+        "value": "#feb3b3",
+        "type": "color"
+      },
+      "red040": {
+        "value": "#fe8888",
+        "type": "color"
+      },
+      "red050": {
+        "value": "#fb5959",
+        "type": "color"
+      },
+      "red060": {
+        "value": "#d60000",
+        "type": "color"
+      },
+      "red070": {
+        "value": "#a90000",
+        "type": "color"
+      },
+      "red080": {
+        "value": "#7d0000",
+        "type": "color"
+      },
+      "red090": {
+        "value": "#550000",
+        "type": "color"
+      },
+      "red100": {
+        "value": "#2d0000",
+        "type": "color"
+      },
+      "amber010": {
+        "value": "#ffede1",
+        "type": "color"
+      },
+      "amber020": {
+        "value": "#fddcc6",
+        "type": "color"
+      },
+      "amber030": {
+        "value": "#feb788",
+        "type": "color"
+      },
+      "amber040": {
+        "value": "#f79247",
+        "type": "color"
+      },
+      "amber050": {
+        "value": "#cd6900",
+        "type": "color"
+      },
+      "amber060": {
+        "value": "#a75500",
+        "type": "color"
+      },
+      "amber070": {
+        "value": "#804200",
+        "type": "color"
+      },
+      "amber080": {
+        "value": "#5d2f00",
+        "type": "color"
+      },
+      "amber090": {
+        "value": "#3c1f00",
+        "type": "color"
+      },
+      "amber100": {
+        "value": "#1d0d02",
+        "type": "color"
+      },
+      "teal010": {
+        "value": "#e6f4f6",
+        "type": "color"
+      },
+      "teal020": {
+        "value": "#c7e7ea",
+        "type": "color"
+      },
+      "teal030": {
+        "value": "#97d0d6",
+        "type": "color"
+      },
+      "teal040": {
+        "value": "#5eb8c0",
+        "type": "color"
+      },
+      "teal050": {
+        "value": "#289fab",
+        "type": "color"
+      },
+      "teal060": {
+        "value": "#017582",
+        "type": "color"
+      },
+      "teal070": {
+        "value": "#005b65",
+        "type": "color"
+      },
+      "teal080": {
+        "value": "#004249",
+        "type": "color"
+      },
+      "teal090": {
+        "value": "#002b30",
+        "type": "color"
+      },
+      "teal100": {
+        "value": "#001314",
+        "type": "color"
+      },
+      "purple010": {
+        "value": "#eff0ff",
+        "type": "color"
+      },
+      "purple020": {
+        "value": "#dfe0fe",
+        "type": "color"
+      },
+      "purple030": {
+        "value": "#c0c2fc",
+        "type": "color"
+      },
+      "purple040": {
+        "value": "#a3a3fb",
+        "type": "color"
+      },
+      "purple050": {
+        "value": "#8883f6",
+        "type": "color"
+      },
+      "purple060": {
+        "value": "#6454e3",
+        "type": "color"
+      },
+      "purple070": {
+        "value": "#4c33cc",
+        "type": "color"
+      },
+      "purple080": {
+        "value": "#37239c",
+        "type": "color"
+      },
+      "purple090": {
+        "value": "#231668",
+        "type": "color"
+      },
+      "purple100": {
+        "value": "#0f0936",
+        "type": "color"
+      },
+      "neutral010": {
+        "value": "#f1f1f1",
+        "type": "color"
+      },
+      "neutral020": {
+        "value": "#e2e2e2",
+        "type": "color"
+      },
+      "neutral030": {
+        "value": "#c6c6c6",
+        "type": "color"
+      },
+      "neutral040": {
+        "value": "#ababab",
+        "type": "color"
+      },
+      "neutral050": {
+        "value": "#919191",
+        "type": "color"
+      },
+      "neutral060": {
+        "value": "#6a6a6a",
+        "type": "color"
+      },
+      "neutral070": {
+        "value": "#525252",
+        "type": "color"
+      },
+      "neutral080": {
+        "value": "#3b3b3b",
+        "type": "color"
+      },
+      "neutral090": {
+        "value": "#262626",
+        "type": "color"
+      },
+      "neutral100": {
+        "value": "#111111",
+        "type": "color"
+      },
+      "focus010": {
+        "value": "#3768fb",
+        "type": "color"
+      },
+      "blackTint010": {
+        "value": "#0000001a",
+        "type": "color"
+      },
+      "blackTint020": {
+        "value": "#00000033",
+        "type": "color"
+      },
+      "blackTint030": {
+        "value": "#0000004d",
+        "type": "color"
+      },
+      "blackTint040": {
+        "value": "#00000066",
+        "type": "color"
+      },
+      "blackTint050": {
+        "value": "#00000080",
+        "type": "color"
+      },
+      "blackTint060": {
+        "value": "#00000099",
+        "type": "color"
+      },
+      "blackTint070": {
+        "value": "#000000b3",
+        "type": "color"
+      },
+      "blackTint080": {
+        "value": "#000000cc",
+        "type": "color"
+      },
+      "blackTint090": {
+        "value": "#000000e6",
+        "type": "color"
+      },
+      "black": {
+        "value": "#111111",
+        "type": "color"
+      },
+      "whiteTint010": {
+        "value": "#ffffff1a",
+        "type": "color"
+      },
+      "whiteTint020": {
+        "value": "#ffffff33",
+        "type": "color"
+      },
+      "whiteTint030": {
+        "value": "#ffffff4d",
+        "type": "color"
+      },
+      "whiteTint040": {
+        "value": "#ffffff66",
+        "type": "color"
+      },
+      "whiteTint050": {
+        "value": "#ffffff80",
+        "type": "color"
+      },
+      "whiteTint060": {
+        "value": "#ffffff99",
+        "type": "color"
+      },
+      "whiteTint070": {
+        "value": "#ffffffb3",
+        "type": "color"
+      },
+      "whiteTint080": {
+        "value": "#ffffffcc",
+        "type": "color"
+      },
+      "whiteTint090": {
+        "value": "#ffffffe6",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "Reddit": {
+        "value": "#ff4500",
+        "type": "color"
+      },
+      "Whatsapp": {
+        "value": "#25d366",
+        "type": "color"
+      },
+      "Youtube": {
+        "value": "#ff0000",
+        "type": "color"
+      },
+      "Instagram": {
+        "value": "#c32aa3",
+        "type": "color"
+      },
+      "Facebook": {
+        "value": "#1877f2",
+        "type": "color"
+      },
+      "Twitter": {
+        "value": "#1da1f2",
+        "type": "color"
+      },
+      "Github": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "Apple": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "GoogleBlue": {
+        "value": "#4285f4",
+        "type": "color"
+      },
+      "GoogleRed": {
+        "value": "#db4437",
+        "type": "color"
+      },
+      "GoogleYellow": {
+        "value": "#f4b400",
+        "type": "color"
+      },
+      "GoogleGreen": {
+        "value": "#0f9d58",
+        "type": "color"
+      },
+      "transparent": {
+        "value": "#00000000",
+        "type": "color"
+      },
+      "ink": {
+        "inkBrand020": {
+          "value": "#aebfff",
+          "type": "color",
+          "description": "Brand colour complimentary to inkBrand010"
+        },
+        "inkBrand010": {
+          "value": "#577ffb",
+          "type": "color",
+          "description": "Prominent brand colour applied to text and icons (e.g. icons in outlined buttons)"
+        },
+        "inkInformative": {
+          "value": "#289fab",
+          "type": "color",
+          "description": "Text and icons for informative messages"
+        },
+        "inkNotice": {
+          "value": "#ababab",
+          "type": "color",
+          "description": "Text and icons for notice messages"
+        },
+        "inkNegative": {
+          "value": "#fb5959",
+          "type": "color",
+          "description": "Text and icons for error messages. Feedback notifications (invalid) (e.g. assistive text in a text field)"
+        },
+        "inkPositive": {
+          "value": "#41a05b",
+          "type": "color",
+          "description": "Text and icons for success messages. Feedback notifications (valid) (e.g. assistive text in a text field)"
+        },
+        "inkDark010": {
+          "value": "#111111",
+          "type": "color",
+          "description": "Used when the same dark colour value is required across all colour themes"
+        },
+        "inkLight010": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Used when the same light colour value is required across all colour themes"
+        },
+        "inkInverse": {
+          "value": "#111111",
+          "type": "color",
+          "description": "Text and icons where the recommended contrast against the background cannot be achieved"
+        },
+        "inkNonEssential": {
+          "value": "#919191",
+          "type": "color",
+          "description": "Text and icons in an inactive (disabled) state"
+        },
+        "inkSubtle": {
+          "value": "#ababab",
+          "type": "color",
+          "description": "Subheadlines, labels and secondary text"
+        },
+        "inkBase": {
+          "value": "#e2e2e2",
+          "type": "color",
+          "description": "Body and paragraph text"
+        },
+        "inkContrast": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Headlines or copy where emphasis is needed"
+        }
+      },
+      "interface": {
+        "interfaceSkeleton020": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) to indicate the skeleton (loading) state of a component"
+        },
+        "interfaceSkeleton010": {
+          "value": "#262626",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) to indicate the skeleton (loading) state of a component"
+        },
+        "interfaceNeutral020": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for neutral messages"
+        },
+        "interfaceNeutral010": {
+          "value": "#c6c6c6",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for neutral messages, & feedback notifications (e.g. banner, flag, inline message)"
+        },
+        "interfaceInformative020": {
+          "value": "#002b30",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for informative messages"
+        },
+        "interfaceInformative010": {
+          "value": "#289fab",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for informative messages"
+        },
+        "interfaceNotice020": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for notice or warning messages"
+        },
+        "interfaceNotice010": {
+          "value": "#c6c6c6",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for notice or warning messages"
+        },
+        "interfaceNegative020": {
+          "value": "#550000",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for error messages"
+        },
+        "interfaceNegative010": {
+          "value": "#fb5959",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for error messages"
+        },
+        "interfacePositive020": {
+          "value": "#002d0d",
+          "type": "color",
+          "description": "Background (low contrast in a light theme, and high contrast in a dark theme) for success messages"
+        },
+        "interfacePositive010": {
+          "value": "#41a05b",
+          "type": "color",
+          "description": "Background (high contrast in a light theme, and low contrast in a dark theme) for success messages"
+        },
+        "interfaceBrand020": {
+          "value": "#aebfff",
+          "type": "color",
+          "description": "Brand colour complimentary to interfaceBrand010"
+        },
+        "interfaceBrand010": {
+          "value": "#577ffb",
+          "type": "color",
+          "description": "Prominent brand colour applied to backgrounds e.g. a footer, or header"
+        },
+        "interface060": {
+          "value": "#c6c6c6",
+          "type": "color",
+          "description": "Component backgrounds of contrasting colours"
+        },
+        "interface050": {
+          "value": "#919191",
+          "type": "color",
+          "description": "Extended scale of component backgrounds"
+        },
+        "interface040": {
+          "value": "#6a6a6a",
+          "type": "color",
+          "description": "Extended scale of component backgrounds"
+        },
+        "interface030": {
+          "value": "#525252",
+          "type": "color",
+          "description": "Extended scale of component backgrounds"
+        },
+        "interface020": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Extended scale of component backgrounds"
+        },
+        "interface010": {
+          "value": "#262626",
+          "type": "color",
+          "description": "Component backgrounds (e.g. card)"
+        },
+        "interfaceBackground": {
+          "value": "#111111",
+          "type": "color",
+          "description": "Page background"
+        }
+      },
+      "interactive": {
+        "interactiveInput050": {
+          "value": "#aebfff",
+          "type": "color",
+          "description": "Active state background and border for selection controls, and input components"
+        },
+        "interactiveInput040": {
+          "value": "#577ffb",
+          "type": "color",
+          "description": "Background & border colours applied to the Selected state of the Switch, the checkbox, & radio components"
+        },
+        "interactiveInput030": {
+          "value": "#03264d",
+          "type": "color",
+          "description": "Background colour applied to the ‘feedback’ of the checkbox, & radio components"
+        },
+        "interactiveInput020": {
+          "value": "#6a6a6a",
+          "type": "color",
+          "description": "Background & border colours applied to the unselected state of the switch, the checkbox, & radio components"
+        },
+        "interactiveInput010": {
+          "value": "#262626",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the text field, & the select component button, & the list item"
+        },
+        "interactiveFocus010": {
+          "value": "#3768fb",
+          "type": "color",
+          "description": "Focus tabbing"
+        },
+        "interactiveVisited010": {
+          "value": "#8883f6",
+          "type": "color",
+          "description": "Visited state"
+        },
+        "interactiveDisabled010": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Disabled state"
+        },
+        "interactiveLink030": {
+          "value": "#aebfff",
+          "type": "color"
+        },
+        "interactiveLink020": {
+          "value": "#8ba6f6",
+          "type": "color"
+        },
+        "interactiveLink010": {
+          "value": "#577ffb",
+          "type": "color"
+        },
+        "interactiveInverse050": {
+          "value": "#000000cc",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveInverse040": {
+          "value": "#000000b3",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the Solid button, & the border colour of the outlined button"
+        },
+        "interactiveInverse030": {
+          "value": "#000000e6",
+          "type": "color",
+          "description": "Background colour applied to the Base state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveInverse020": {
+          "value": "#00000033",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all buttons, & the active state of the outlined & minimal button"
+        },
+        "interactiveInverse010": {
+          "value": "#0000001a",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the outlined & minimal button"
+        },
+        "interactiveNegative050": {
+          "value": "#feb3b3",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveNegative040": {
+          "value": "#fe8888",
+          "type": "color",
+          "description": "Background colour applied to the Hover state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveNegative030": {
+          "value": "#fb5959",
+          "type": "color",
+          "description": "Background colour applied to the base state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveNegative020": {
+          "value": "#7d0000",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all buttons, & the active state of the outlined & minimal button"
+        },
+        "interactiveNegative010": {
+          "value": "#550000",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the outlined & minimal button"
+        },
+        "interactivePositive050": {
+          "value": "#95caa3",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePositive040": {
+          "value": "#6db681",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePositive030": {
+          "value": "#41a05b",
+          "type": "color",
+          "description": "Background colour applied to the base state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePositive020": {
+          "value": "#004514",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all button, & the active state of the outlined & minimal button"
+        },
+        "interactivePositive010": {
+          "value": "#002d0d",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the outlined & minimal button"
+        },
+        "interactiveSecondary050": {
+          "value": "#c6c6c6",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveSecondary040": {
+          "value": "#ababab",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the solid button, & the border colour of the outlined button"
+        },
+        "interactiveSecondary030": {
+          "value": "#919191",
+          "type": "color",
+          "description": "Background colour applied to the Base state of the solid button, & the border colour of the outlined button "
+        },
+        "interactiveSecondary020": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all buttons, & the active state of the outlined & minimal button"
+        },
+        "interactiveSecondary010": {
+          "value": "#262626",
+          "type": "color",
+          "description": "Background colour applied to the Hover state of the outlined & minimal button"
+        },
+        "interactivePrimary050": {
+          "value": "#aebfff",
+          "type": "color",
+          "description": "Background colour applied to the active state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePrimary040": {
+          "value": "#8ba6f6",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePrimary030": {
+          "value": "#577ffb",
+          "type": "color",
+          "description": "Background colour applied to the base state of the solid button, & the border colour of the outlined button"
+        },
+        "interactivePrimary020": {
+          "value": "#12387a",
+          "type": "color",
+          "description": "Background colour applied to the loading state of all buttons, & the active state of the outlined & minimal button"
+        },
+        "interactivePrimary010": {
+          "value": "#03264d",
+          "type": "color",
+          "description": "Background colour applied to the hover state of the outlined & minimal button"
+        }
+      },
+      "overlay": {
+        "overlayTintBase010": {
+          "value": "#00000033",
+          "type": "color",
+          "description": "Creative use case"
+        },
+        "overlayTintBase020": {
+          "value": "#00000066",
+          "type": "color",
+          "description": "Creative use case"
+        },
+        "overlayTintBase030": {
+          "value": "#00000099",
+          "type": "color",
+          "description": "Creative use case"
+        },
+        "overlayTintBase040": {
+          "value": "#000000cc",
+          "type": "color",
+          "description": "Internal overlay component that sits behind the panels (used by modals and drawers)"
+        },
+        "overlayTintInverse010": {
+          "value": "#ffffff33",
+          "type": "color",
+          "description": "Creative use case"
+        },
+        "overlayTintInverse020": {
+          "value": "#ffffff66",
+          "type": "color",
+          "description": "Creative use case"
+        },
+        "overlayTintInverse030": {
+          "value": "#ffffff99",
+          "type": "color",
+          "description": "Creative use case"
+        },
+        "overlayTintInverse040": {
+          "value": "#ffffffcc",
+          "type": "color",
+          "description": "Creative use case"
+        },
+        "overlayGradientBaseVertical": {
+          "value": "linear-gradient(0deg, #11111100 0%, #111111 100%)",
+          "type": "color",
+          "description": "Base gradient tokens fade elements into the interface background"
+        },
+        "overlayGradientBaseHorizontal": {
+          "value": "linear-gradient(90deg, #11111100 0%, #111111 100%)",
+          "type": "color",
+          "description": "Base gradient tokens fade elements into the interface background"
+        },
+        "overlayGradientInverseVertical": {
+          "value": "linear-gradient(0deg, #c6c6c600 0%, #c6c6c6 100%)",
+          "type": "color",
+          "description": "Inverse gradient tokens fade elements into a light background in a dark theme"
+        },
+        "overlayGradientInverseHorizontal": {
+          "value": "linear-gradient(90deg, #c6c6c600 0%, #c6c6c6 100%)",
+          "type": "color",
+          "description": "Inverse gradient tokens fade elements into a light background in a dark theme"
+        }
+      },
+      "shadow010": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 0.5,
+          "blur": 2,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Default states of cards and active states of buttons"
+      },
+      "shadow020": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 4,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Notification badges"
+      },
+      "shadow030": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 4,
+          "blur": 8,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Navigation menu bars"
+      },
+      "shadow040": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 8,
+          "blur": 16,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Hover states of cards and button hover states"
+      },
+      "shadow050": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 16,
+          "blur": 24,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Pickers and popovers"
+      },
+      "shadow060": {
+        "value": {
+          "color": "#11111114",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 20,
+          "blur": 32,
+          "spread": 0
+        },
+        "type": "boxShadow",
+        "description": "Modals and dialogs"
+      },
+      "editorial": {
+        "editorialDisplay010": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.11}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for large pieces of text content"
+        },
+        "editorialDisplay020": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.12}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for large pieces of text content"
+        },
+        "editorialDisplay030": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.13}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for large pieces of text content"
+        },
+        "editorialHeadline010": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline020": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline030": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline040": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline050": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline060": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.8}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline070": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.9}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialHeadline080": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-0}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.10}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for headline text content such as for cards and title bars"
+        },
+        "editorialSubheadline010": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialSubheadline020": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialSubheadline030": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialSubheadline040": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialSubheadline050": {
+          "value": {
+            "fontFamily": "{fontFamilies.bitter}",
+            "fontWeight": "{fontWeights.bitter-1}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.7}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub headline text content such as for cards"
+        },
+        "editorialParagraph010": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "editorialParagraph020": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for body text content such as for article text"
+        },
+        "editorialParagraph030": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for body text content such as for article text"
+        },
+        "editorialQuote010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-3}",
+            "lineHeight": "{lineHeights.3}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for quotes in body text content"
+        },
+        "editorialQuote020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-3}",
+            "lineHeight": "{lineHeights.3}",
+            "fontSize": "{fontSize.6}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for quotes in body text content"
+        },
+        "editorialCaption010": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-4}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "editorialLabel010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for non-interactive identifiers that are often defined by an editor, for example the author label in a card"
+        },
+        "editorialLabel020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "editorialLabel030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for non-interactive identifiers that are often defined by an editor, for example the author label in a card"
+        }
+      },
+      "utility": {
+        "utilityHeading010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilityHeading020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilityHeading030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilityHeading040": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilityHeading050": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-6}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.5}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for heading utility text such as for modals and drawers"
+        },
+        "utilitySubheading010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "utilitySubheading020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub heading utility text such as for modals and drawers"
+        },
+        "utilitySubheading030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.2}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub heading utility text such as for modals and drawers"
+        },
+        "utilitySubheading040": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.3}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub heading utility text such as for modals and drawers"
+        },
+        "utilitySubheading050": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.0}",
+            "fontSize": "{fontSize.4}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for sub heading utility text such as for modals and drawers"
+        },
+        "utilityBody010": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for text inputs and banners"
+        },
+        "utilityBody020": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "utilityBody030": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-2}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for text inputs and banners"
+        },
+        "utilityLabel010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for text labels such as for menus and lists"
+        },
+        "utilityLabel020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "utilityLabel030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for text labels such as for menus and lists"
+        },
+        "utilityButton010": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for button text and standalone links"
+        },
+        "utilityButton020": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        },
+        "utilityButton030": {
+          "value": {
+            "fontFamily": "{fontFamilies.poppins}",
+            "fontWeight": "{fontWeights.poppins-5}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.1}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for button text and standalone links"
+        },
+        "utilityMeta010": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-4}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography",
+          "description": "Used for bylines and date time"
+        },
+        "utilityMeta020": {
+          "value": {
+            "fontFamily": "{fontFamilies.dm-sans}",
+            "fontWeight": "{fontWeights.dm-sans-4}",
+            "lineHeight": "{lineHeights.1}",
+            "fontSize": "{fontSize.0}",
+            "letterSpacing": "{letterSpacing.0}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      }
+    },
+    "fontFamilies": {
+      "bitter": {
+        "value": "Bitter",
+        "type": "fontFamilies"
+      },
+      "dm-sans": {
+        "value": "DM Sans",
+        "type": "fontFamilies"
+      },
+      "poppins": {
+        "value": "Poppins",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "112.5%",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "AUTO",
+        "type": "lineHeights"
+      },
+      "2": {
+        "value": "150%",
+        "type": "lineHeights"
+      },
+      "3": {
+        "value": "125%",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "bitter-0": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "bitter-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "dm-sans-2": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "poppins-3": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "dm-sans-4": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "poppins-5": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "poppins-6": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "20",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "22",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "28",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "36",
+        "type": "fontSizes"
+      },
+      "9": {
+        "value": "40",
+        "type": "fontSizes"
+      },
+      "10": {
+        "value": "48",
+        "type": "fontSizes"
+      },
+      "11": {
+        "value": "56",
+        "type": "fontSizes"
+      },
+      "12": {
+        "value": "64",
+        "type": "fontSizes"
+      },
+      "13": {
+        "value": "80",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0%",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "paragraphIndent": {
+      "0": {
+        "value": "0px",
+        "type": "dimension"
+      }
     }
   },
   "Light": {
